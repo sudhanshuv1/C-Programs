@@ -1,5 +1,5 @@
 /* 
- C program to illustrate differences between Structure and Union
+       C program to illustrate differences between Structure and Union
 */ 
   
 #include <stdio.h> 

@@ -1,5 +1,5 @@
 /*
- C program to illustrate macros
+    C program to illustrate macros
 */
 
 #include <stdio.h>

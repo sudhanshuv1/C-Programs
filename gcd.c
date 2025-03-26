@@ -1,5 +1,5 @@
 /*
-GCD of two numbers using Euclid's algorithm
+    GCD of two numbers using Euclid's algorithm
 */
 
 #include<stdio.h>
